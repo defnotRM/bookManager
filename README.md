@@ -1,17 +1,17 @@
-# rm-test1
+# Setup project
 
 
-## setup project
+### 1. clone project
 ```sh
 git clone https://github.com/defnotRM/bookManager
 ```
-### install node packages
+### 2. install node packages
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 3. Compile and Hot-Reload for Development
 
 ```sh
 npm run dev
